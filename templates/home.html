@@ -1,0 +1,33 @@
+{% extends 'base.html' %}
+{% block content %}
+
+<div class="container-full on-loading">
+	<div id="loader"></div>
+	<!-- APP -->	
+	<row>
+		<div class="col-xs-6" >
+		
+			<div> {% include "map.html" %} </div>
+
+
+		</div>
+		{% include "panel.html" %}
+	</row>
+
+	<footer>
+		<p class="logojpp">
+			<a href="http://jplusplus.org" target="_blank">
+				<img src="{{ url_for('static', filename='images/jpp.png')}}"/>
+			</a>
+		</p>
+
+		<p class="credit">
+			par <a href="http://twitter.com/jackottaviani" target="_blank">Data Le Temp</a>
+		</p>
+	</footer>
+
+	
+
+</div>
+
+{% endblock %}

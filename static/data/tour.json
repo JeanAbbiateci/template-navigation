@@ -1,0 +1,35 @@
+
+[
+  {
+    "project_id":179,
+    "title":"Martigny ferchaud",
+    "long_title":"Construction d'un pont qui déchire",
+    "year":2003,
+    "lat":46.2,
+    "lon":6.1,
+    "description":"<p>100&chbh=15,10&chd=t2:10,20,30,20,70,80|20,10,5,20,30,10|10,0,20,15,60,40,30&chds=0,120&chco=224499,009900&chm=D,76A4FB,2,0,3|N,FF0000,-1,-1,10'/></p>",
+    "usd_defl":836149339.6,
+    "alt":"",
+    "recipient_oecd_name":"Valais",
+    "img_credit":"nasamarshall/Flickr",
+    "img_credit_url":"http://www.flickr.com/photos/nasamarshall/5114255561/sizes/",
+    "img":"dam.jpg"
+  },
+  {
+    "project_id":195,
+    "title":"Lagos-Kano Railway",
+    "long_title":"Lagos-Kano railway",
+    "year":2006,
+    "lat":46.45,
+    "lon":6.41,
+    "description":"<p>The Chinese Civil Engineering Construction Corporation was awarded the contract for the modernization of Nigeria's 1,313 km railway from Lagos to Kano. The journey currently takes 31 hours, but the government plans to reduce it to 24. The project is worth $8 billion and China has soft-loaned the Nigerian government at least $500 million to finance the project. </p> <p>In addition to boosting trade, some believe that the train can help unite Nigeria. The country has been wracked by periodic episodes of violence for decades. Nigeria's 150 million people are divided between the mostly Muslim north and Christian and animist south.</p><p><div class=\"img_credit\">Photo: <a href=\"http://www.flickr.com/photos/jbdodane/11984031805/\" target=\"_blank\">jbdodane/Flickr</a></div></p>",
+    "crs_sector_name":"Transport and Storage",
+    "recipient_oecd_name":"Nigeria",
+    "img":"railway.jpg",
+    "img_credit":"jbdodane/Flickr",
+    "img_credit_url":"http://www.flickr.com/photos/jbdodane/11984031805/",
+    "alt":"credit"
+  
+
+  }
+]
